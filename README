@@ -1,0 +1,2 @@
+Compile with:
+$ g++ coffee.cpp coffee_machine.cpp latte.cpp cappucchino.cpp decaf.cpp main.cpp 
